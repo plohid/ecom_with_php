@@ -1,0 +1,18 @@
+
+view page for dashboard 
+1.  dashboard
+2.  Add cat
+3.  edit/manage cat
+4.  add product
+5.  edit/manage product
+6.  add coupon 
+7.  manage user 
+8.  add user 
+ 
+
+practice url link :  
+
+1.  https://www.youtube.com/watch?v=gTQnGcl50xY&list=PL_UzwMj0a7hI7_b9FJ_j7fTzkcYfuXGiK             done
+2.  https://www.youtube.com/watch?v=s4Bw8eQmsp0&list=PL_UzwMj0a7hI7_b9FJ_j7fTzkcYfuXGiK&index=2     done
+3.  https://www.youtube.com/watch?v=PNxeg33JuiY&list=PL_UzwMj0a7hI7_b9FJ_j7fTzkcYfuXGiK&index=4     done
+
